@@ -2,4 +2,4 @@ hola, este es mi primer proyecto con git
 
 estoy aprendiendo git paso a paso
 
-Este es un ejercicio nuevo con rama-conflicto 2
+Esta es una línea escrita en la rama conflicto-ejemplo 3
